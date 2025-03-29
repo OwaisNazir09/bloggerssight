@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# BloggersSight
-=======
 
 # Bloggerssight - Share Your Thoughts with the World
 
